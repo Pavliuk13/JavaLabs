@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"First"},{"p":"<Unnamed>","l":"Fourth"},{"p":"<Unnamed>","l":"Fraction"},{"p":"<Unnamed>","l":"IBook"},{"p":"<Unnamed>","l":"IDate"},{"p":"<Unnamed>","l":"ILine"},{"p":"<Unnamed>","l":"IPhone"},{"p":"<Unnamed>","l":"ISmartPhone"},{"p":"<Unnamed>","l":"Second"},{"p":"<Unnamed>","l":"Third"}]
